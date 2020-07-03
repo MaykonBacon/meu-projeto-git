@@ -1,6 +1,5 @@
 # Meu projeto em GIT
 
-<<<<<<< HEAD
 [![HitCount](https://hits.dwyl.com/MaykonBacon/meu-projeto-git.svg)](https://hits.dwyl.com/MaykonBacon/meu-projeto-git)
 
 ## Início
