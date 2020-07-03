@@ -1,5 +1,6 @@
 # Meu projeto em GIT
 
+<<<<<<< HEAD
 [![HitCount](https://hits.dwyl.com/MaykonBacon/meu-projeto-git.svg)](https://hits.dwyl.com/MaykonBacon/meu-projeto-git)
 
 ## Início
@@ -43,3 +44,6 @@ Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](LICENSE.md) 
 ## Agradecimentos
 
 * Este projeto foi construído durante as aulas da semana Fullstack Master do [DevPleno](https://devpleno.com).
+=======
+ Adicionando algumas linhas....
+>>>>>>> e468931266c6181fde33baf5170e24bf0a68b899
